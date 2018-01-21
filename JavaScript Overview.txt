@@ -1,0 +1,78 @@
+Basic Javascipt
+
+Arrays
+Objects and values in objects
+Arrays and Objects
+
+Using console for objects
+Storing information in objects
+Condistionals and Loops
+
+Using this
+
+
+Hangman game
+Prompt, Yes/No Confirm
+List of words - using rnd to select
+Updating the game state
+
+Functions and arguements
+Function to pick a random words
+
+Advanced JavaScropt
+
+DOM and JQuery
+JQUery and DOM tree
+
+Interadtive Programming
+
+Setttimeout
+SetInterval
+Responding to Clicks
+
+Oject Oriented Programming
+Methods
+Constructor
+Drew method to car prototype
+movement method
+
+
+Canvas Element
+
+Miving things on the canvas
+
+Changing size of a square
+Drawing a bee
+Animating a bee
+Drawing a ball and moving it
+
+using keyboard to control animations
+Keydown event handler
+
+>>>Pong in Javascript
+
+Oject to convert keycodes into names
+Move method
+Draw method
+Reacting to the keyboard
+pg 246
+
+Snake Game
+
+Score display
+Ending the Game
+pg 286
+
+Look at Noxe.js and how its structured
+
+
+
+
+
+
+
+
+
+
+
+
